@@ -1,2 +1,2 @@
-# suberralabs-website
-Website for Suberra Labs
+# SHA2 labs-website
+Website for SHA2 Labs
